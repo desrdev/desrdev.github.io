@@ -1,4 +1,5 @@
-## Harddrives
+## Stock Drives
+Below is a compilation of HDD that were bundled with the PSX. Please contribute.
 
-Harddrives use a custom firmware and/or has very specific software loaded on them.
-There's one for the DVR functionality and optionally(?) a second one for games.
+### Maxtor
+#### DiamondMax Plus 9, 160GB, YAR41BW0/Y46DYJ5E/6Y160P00428BM

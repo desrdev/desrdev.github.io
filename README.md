@@ -5,7 +5,7 @@ Here we gather information on the DVR from Sony named PSX, which also doubled as
 
 ## Index
 ### Hardware
-[Hardware Revisions](hardware.md)
+[Hardware Models](hardware.md)
 
 [Official peripherals](peripherals.md)
 
@@ -16,6 +16,3 @@ Here we gather information on the DVR from Sony named PSX, which also doubled as
 [DVRP](dvrp.md)
 
 [Modchips](modchips.md)
-
-### Software
-[wLaunchELF](wlaunchelf.md)
