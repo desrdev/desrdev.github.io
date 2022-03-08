@@ -1,4 +1,3 @@
-#Hardware
 ## Hardware Revisions
 Every PSX hardware revision has two releases and is specified with a 4 digit product code: `DESR-****`. The second digit (`0/1/5/7`) specifies the hardware revision. First digit (`5/7`) defines hard drive size and some minor features. The `7*00` is constructed with a glossy case and has blue lettering.
 
@@ -15,3 +14,8 @@ All PSX revisions use the combo EE+GS main chip, and the original MIPS IOP, not 
 
 ## Internal Naming
 Within PSX related binaries, the `*000/*100` are named PSX1 and the `*500/*700` are named PSX2.
+
+## Board Layout
+### DESR-5500
+![Bottom Layout](images/bottom-marked.JPG)
+![Top Layout](images/top-marked.png)
