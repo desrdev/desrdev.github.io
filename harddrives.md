@@ -13,4 +13,5 @@ Below is a compilation of HDD that were bundled with the PSX. Please contribute.
 ### Seagate Drives
 
 | Model | Capacity | Code | SN | ID | (Found in) |
+| --- | --- | --- | --- | --- | --- |
 | Barracuda 7200.10 | 250GB | 9BJ03E-151 | 9OE7ZHNB | ST3250820A | 7000 |
